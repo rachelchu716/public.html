@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Screencasted Video</title>
+</head>
+<body>
+  
+<h1>Screencasted Video</h1>
+  <p><b><i>Watch below!</i></b></p>
+<iframe width="315" height="560" 
+src="https://youtube.com/embed/WO-BpEjtn7U?feature=share" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture;
+web-share"
+allowfullscreen></iframe>
+  <p>This video was made with <b><i>ScreenPal</i></b>!</p>
+  <h2> Original Photo</h2>
+  <p>The <i>original</i> photo is by <b>Larisa Birta</b>.</p>
 
+  <p> Please use the <i>following</i> <b>hyperlinks</b> to navigate!</p>
+  
+  <ul>
+    <li><a href="https://www.google.com/" target=”blank”>Home</a></li>
+    <li><a href="https://www.google.com/" target=”blank”>Photo Magic! (You are here)</a></li>
+        <li><a href="https://www.google.com/" target=”blank”>Screencasted Video</a></li>
+        <li><a href="https://www.google.com/" target=”blank”>Flower Fact Quiz</a></li>
+  </ul>
+</body>
+</html>
