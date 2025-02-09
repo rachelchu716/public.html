@@ -1,1 +1,26 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Photo Magic</title>
+</head>
+<body>
+  
+<h1>Original Photo</h1>
+  <p>The <i>original</i> photo is by <b> Haydn Golden</b>.</p>
+  <img src="https://images.unsplash.com/photo-1502089418555-ebcba08cb377?q=80&w=2864&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Carnations and lilies bouquet" style="width:500px;height:600px;">
+<h2>Edited Photos</h2>
+  <p>This <i>edited</i> photo is <b>50 pixels</b> wide.</p>
+  <a href="https://lh3.googleusercontent.com/pw/AP1GczPlp8tSwFsNVOY4McHKWgGKXqM4yaekt24FQMn7KoLBueNynEsJZ2C4R_oo9-I_jwPYbeUzxBsEQMZQIsGShRlOdA7vjFOUcPGIfBmc7rFKwa3KRN4=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczPlp8tSwFsNVOY4McHKWgGKXqM4yaekt24FQMn7KoLBueNynEsJZ2C4R_oo9-I_jwPYbeUzxBsEQMZQIsGShRlOdA7vjFOUcPGIfBmc7rFKwa3KRN4=w50-h63-p-k" /> </a>
+  
+  <p>The <i>second</i> edited photo is <b>200</b> pixels wide.</p>
+  <a href="https://lh3.googleusercontent.com/pw/AP1GczMSlSQGqB46jc1ym2K4rYgMYNIFKrdUa5PFVFzLmktpCFaBlsRq4wMl64RByzO1zIBfbctrYjVr-HxAsVK9XFjNEUR5IXCChn_afdaqwWJZ3Xitr6k=s200-p-k?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczMSlSQGqB46jc1ym2K4rYgMYNIFKrdUa5PFVFzLmktpCFaBlsRq4wMl64RByzO1zIBfbctrYjVr-HxAsVK9XFjNEUR5IXCChn_afdaqwWJZ3Xitr6k=s200-p-k" /> </a>
+  <p> Please use the <i>following</i> <b>hyperlinks</b> to navigate!</p>
+  
+  <ul>
+    <li><a href="https://www.google.com/" target=”blank”>Home</a></li>
+    <li><a href="https://www.google.com/" target=”blank”>Photo Magic! (You are here)</a></li>
+        <li><a href="https://www.google.com/" target=”blank”>Screencasted Video</a></li>
+        <li><a href="https://www.google.com/" target=”blank”>Flower Fact Quiz</a></li>
+  </ul>
+</body>
+</html>
