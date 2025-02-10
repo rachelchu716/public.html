@@ -4,6 +4,12 @@
 <title>Home Page</title>
 </head>
 <body>
+    <style>
+  body {
+    font: 100%/1.6 Arial, sans-serif;
+    color: #b486f6;
+  }
+  </style>
   
 <h1>Home Page</h1>
   <p>Hello! Welcome to Rachel's <b><i>Exercise 1</i></b> assignment! </p>
@@ -12,8 +18,7 @@
   <ul>
     <li><a href="https://www.google.com/" target=”blank”>Home (You are here)</a></li>
     <li><a href="https://www.google.com/" target=”blank”>Photo Magic!</a></li>
-        <li><a href="https://www.google.com/" target=”blank”>Screencasted Video</a></li>
-        <li><a href="https://www.google.com/" target=”blank”>Flower Fact Quiz</a></li>
+    <li><a href="https://www.google.com/" target=”blank”>Screencasted Video & Flower Fact Quiz</a></li>
   </ul>
   
   <p> <b>Otherwise</b>, check out this <i>random</i> table!<p>
