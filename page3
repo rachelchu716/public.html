@@ -4,6 +4,12 @@
 <title>Screencasted Video</title>
 </head>
 <body>
+    <style>
+  body {
+    font: 100%/1.6 Arial, sans-serif;
+    color: #ffc733;
+  }
+  </style>
   
 <h1>Screencasted Video & Flower Fact Quiz</h1>
   <p><b><i>Watch below!</i></b></p>
