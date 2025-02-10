@@ -5,7 +5,7 @@
 </head>
 <body>
   
-<h1>Screencasted Video</h1>
+<h1>Screencasted Video & Flower Fact Quiz</h1>
   <p><b><i>Watch below!</i></b></p>
 <iframe width="315" height="560" 
 src="https://youtube.com/embed/WO-BpEjtn7U?feature=share" 
@@ -18,13 +18,16 @@ allowfullscreen></iframe>
   <h2> Original Photo</h2>
   <p>The <i>original</i> photo is by <b>Larisa Birta</b>.</p>
 
+<h2>Flower Fact Quiz</h2>
+  <p><b><i>Flower Power!</i></b></p>
+  <p> Take my quiz <a href="https://www.surveymonkey.com/r/6CZDHK7" target=”blank”>here</a>!</p>
+
   <p> Please use the <i>following</i> <b>hyperlinks</b> to navigate!</p>
   
   <ul>
     <li><a href="https://www.google.com/" target=”blank”>Home</a></li>
     <li><a href="https://www.google.com/" target=”blank”>Photo Magic!</a></li>
-        <li><a href="https://www.google.com/" target=”blank”>Screencasted Video (You are here)</a></li>
-        <li><a href="https://www.google.com/" target=”blank”>Flower Fact Quiz</a></li>
+    <li><a href="https://www.google.com/" target=”blank”>Screencasted Video & Flower Fact Quiz (You are here)</a></li>
   </ul>
 </body>
 </html>
