@@ -4,6 +4,12 @@
 <title>Photo Magic</title>
 </head>
 <body>
+    <style>
+  body {
+    font: 100%/1.6 Arial, sans-serif;
+    color: #6fc058;
+  }
+  </style>
   
 <h1>Original Photo</h1>
   <p>The <i>original</i> photo is by <b> Haydn Golden</b>.</p>
@@ -19,8 +25,7 @@
   <ul>
     <li><a href="https://www.google.com/" target=”blank”>Home</a></li>
     <li><a href="https://www.google.com/" target=”blank”>Photo Magic! (You are here)</a></li>
-        <li><a href="https://www.google.com/" target=”blank”>Screencasted Video</a></li>
-        <li><a href="https://www.google.com/" target=”blank”>Flower Fact Quiz</a></li>
+    <li><a href="https://www.google.com/" target=”blank”>Screencasted Video & Flower Fact Quiz</a></li>
   </ul>
 </body>
 </html>
