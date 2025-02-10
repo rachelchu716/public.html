@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Flower Fact Quiz</title>
+</head>
+<body>
+  
+<h1>Flower Fact Quiz</h1>
+  <p><b><i>Flower Power!</i></b></p>
+  <p> Take my quiz <a href="https://www.surveymonkey.com/r/6CZDHK7" target=”blank”>here</a>!</p>
 
+  <p> Please use the <i>following</i> <b>hyperlinks</b> to navigate!</p>
+  
+  <ul>
+    <li><a href="https://www.google.com/" target=”blank”>Home</a></li>
+    <li><a href="https://www.google.com/" target=”blank”>Photo Magic!</a></li>
+        <li><a href="https://www.google.com/" target=”blank”>Screencasted Video</a></li>
+        <li><a href="https://www.google.com/" target=”blank”>Flower Fact Quiz (You are here)</a></li>
+  </ul>
+</body>
+</html>
